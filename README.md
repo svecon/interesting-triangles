@@ -7,4 +7,5 @@ This simple generator was used at mathematical trip to demonstrate interesting t
 - Babylonian triangle
 
 Created for: MATES.upol.cz
+
 Live demo: http://trojuhelniky.svecon.cz/
