@@ -1,8 +1,10 @@
-=== Triangle generator
+Triangle generator
+========
 
-This simple generator was used at an mathematical trip to demonstrate interesting types of triangles:
+This simple generator was used at mathematical trip to demonstrate interesting types of triangles:
 - Pythagorian triangle
 - Heron triangle
 - Babylonian triangle
 
+Created for: MATES.upol.cz
 Live demo: http://trojuhelniky.svecon.cz/
